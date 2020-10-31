@@ -1,7 +1,7 @@
 var RhinoCompute = {
     version: "0.5.1",
 
-    url: "https://compute.rhino3d.com/",
+    url: "http://45.76.155.92/",
 
     authToken: null,
 
